@@ -1,6 +1,33 @@
 # Regex on Computer Science
 ---
+#### Author
 
+#### Ferny Castro
+🔗 [Github](https://github.com/FernyCastro8)
+
+---
+### Summery
+
+The regex tutorial introduces the concept of regular expressions and their significance in computer science. It covers various components and techniques used in regex patterns to match and manipulate text:
+
+**Literals:** These are characters that match the same characters in the text being searched.
+
+**Character Classes:** Sets of characters that can be matched, such as vowels or specific ranges of characters.
+
+**Quantifiers:** Used to specify the number of times a character or group should be matched, including options like zero or more occurrences.
+
+**Alternation:** Matches one pattern or another using the vertical bar operator, allowing for multiple options to be checked.
+
+**Anchors:** Used to match the beginning or end of a line or string, such as matching a string that starts with a specific word.
+
+**Groups:** Allows grouping of characters or sub-patterns together using parentheses, enabling the application of quantifiers or capturing specific parts of a string.
+
+The example provided in the tutorial demonstrates a regex pattern for matching a hexadecimal color code in a string of text. It explains each component of the regular expression and how they work together to validate the color code.
+
+Overall, the tutorial aims to provide a clear understanding of regex and its components, empowering readers to utilize regex for efficient and accurate text searching and manipulation.
+
+
+---
 #### Table of content
 - [Intro](#Itro)
 - [Components](#Components)
@@ -13,7 +40,7 @@
 - [Example](#Example)
 - [Author](#Author)
 
-***
+---
 ### Intro
 
 ##### What is Regex
@@ -83,12 +110,5 @@ Overall, this regular expression can be used to validate whether a string is a v
 
 ---
 
-#### Author
 
-#### Ferny Castro
-[Github](https://github.com/FernyCastro8)
-
-
-
-
-Hopelly this makes Regex expression a bit more clear for you who's reading my Regex tutorial
+Hopelly this makes Regex expression a bit more clear for you who's reading my Regex tutorial 🙂
