@@ -5,6 +5,7 @@
 
 #### Example on HEX value
 
+🔗 [Github gist](https://gist.github.com/FernyCastro8/4aac6e420d7471320082da8f4575e66c)
 ---
 
 #### Author
